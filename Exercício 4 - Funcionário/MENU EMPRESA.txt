@@ -1,0 +1,19 @@
+:::::::::::::::::::GENRENCIAR FUNCIONÁRIOS::::::::::::::::::::
+::  1  -  CADASTRAR FUNCIONÁRIO	                            ::
+::  2  -  MOSTRAR TODOS OS FUNCIONÁRIOS                     ::
+::  3  -  MOSTRAR QUANTIDADE DE FUNCIONÁRIOS                ::
+::  4  -  PESQUISAR FUNCIONÁRIOS POR CARGO                  ::
+::  5  -  MOSTRAR TOTAL DA FOLHA			    ::
+::  6  -  MOSTRAR A MÉDIA SALARIAL			    ::
+::  7  -  MOSTRAR O MAIOR SALÁRIO			    ::
+::  8  -  MOSTRAR TODOS OS DADOS DA EMPRESA		    ::
+::  9  -  PESQUISAR FUNCIONÁRIO POR CPF                     ::
+::  11 -  ALTERAR SALÁRIO DO FUNCIONÁRIO PESQUISANDO POR CPF::
+::  12 -  REMOVER FUNCIONÁRIO PESQUISANDO POR CPF           ::
+::  13 -  EXCLUIR TODOS OS FUNCIONÁRIOS                     ::
+::  0  -  SAIR                                              :: 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+DIGITE A OPÇÃO: 
+
+
+OBS. O USUÁRIO NÃO PODE CADASTRAR MAIS DE UM FUNCIONÁRIO COM O MESMO CPF  
